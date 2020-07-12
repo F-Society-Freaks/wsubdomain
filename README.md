@@ -4,7 +4,7 @@ wsubdomain is a simple but really fast tool that will list sub domains via crt.s
 
 wsubdomain has been created for one purpose - find our targets login page as fast as possible.
 
-We list ~2000 sub domains for 'hp.com' in 1.212 seconds, and we list 37 github sub domains in ~0.232seconds:
+We list ~2000 sub domains for 'hp.com' in 1.212 seconds and 37 domains for github in ~0.232seconds;
 
 ![Screenshot](https://nr1.nu/archive/wsubdomain/wsubdomain.gif)
 
